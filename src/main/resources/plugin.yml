@@ -1,0 +1,9 @@
+name: lc_dupe
+version: '${project.version}'
+main: makerski.lc_dupe.Main
+api-version: '1.13'
+authors: [makerski, lowcode]
+commands:
+  dupe:
+    description: Komenda pozwalajaca na kopiowanie przedmiotow.
+    aliases: kopiuj
